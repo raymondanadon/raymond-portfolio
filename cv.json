@@ -2,12 +2,12 @@
   "basics": {
     "name": "Raymond Anadon",
     "label": "DevOps CI/CD - C/C++",
-    "image": "/raymond-portfolio/me_avatar.jpg",
+    "image": "me_avatar.jpg",
     "email": "raymond@anadon.eu",
     "phone": "+33 610246920",
     "url": "https://anadon.eu",
     "summary": "Junior Full Stack Developer with a passion for building web applications. Currently seeking opportunities to further develop my skills in a professional setting.",
-    "theme": "red",
+    "theme": "blue",
     "location": {
       "address": "",
       "postalCode": "95100",
