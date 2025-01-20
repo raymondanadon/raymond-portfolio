@@ -1,35 +1,30 @@
 {
   "basics": {
-    "name": "John Doe",
-    "label": "Junior Full Stack Developer",
+    "name": "Raymond Anadon",
+    "label": "DevOps CI/CD - C/C++",
     "image": "/me_avatar.jpg",
-    "email": "john.doe@example.com",
-    "phone": "+1 555-555-5555",
-    "url": "https://johndoe.dev",
+    "email": "raymond@anadon.eu",
+    "phone": "+33 610246920",
+    "url": "https://anadon.eu",
     "summary": "Junior Full Stack Developer with a passion for building web applications. Currently seeking opportunities to further develop my skills in a professional setting.",
-    "theme": "default",
+    "theme": "green",
     "location": {
       "address": "",
-      "postalCode": "10001",
-      "city": "Auckland",
-      "countryCode": "NZ",
-      "region": "New Zealand"
+      "postalCode": "95100",
+      "city": "Argenteuil",
+      "countryCode": "FR",
+      "region": "Ile de france"
     },
     "profiles": [
       {
         "network": "LinkedIn",
-        "username": "john-doe",
-        "url": "https://linkedin.com/in/john-doe"
-      },
-      {
-        "network": "X",
-        "username": "john-doe",
-        "url": "https://x.com/john-doe"
+        "username": "raymond-anadon",
+        "url": "https://www.linkedin.com/in/raymond-anadon-7a3a8350"
       },
       {
         "network": "GitHub",
-        "username": "johndoe",
-        "url": "https://github.com/johndoe"
+        "username": "raymondanadon",
+        "url": "https://github.com/raymondanadon"
       }
     ]
   },
